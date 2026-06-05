@@ -40,9 +40,9 @@ Your donation will help us make better products. Thanks in advance.
 
 **We accept all blockchains which have 10+ independent validators.**
 
-- Submit configs for mainnet, go to https://github.com/ping-pub/ping.pub/tree/main/chains/mainnet
+- Submit configs for mainnet, go to https://github.com/ping-pub/mainnet/tree/main/chains/mainnet
 
-- Submit configs for testnet, go to https://github.com/ping-pub/ping.pub/tree/main/chains/testnet
+- Submit configs for testnet, go to https://github.com/ping-pub/testnet/tree/main/chains/testnet
 
 # Example of Config
 
