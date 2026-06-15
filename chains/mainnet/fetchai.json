@@ -8,6 +8,10 @@
     {
       "provider": "Allnodes",
       "address": "https://fetch-rest.publicnode.com"
+    },
+    {
+      "provider": "BadgerBite",
+      "address": "https://fetch-api.badgerbite.io"
     }
   ],
   "rpc": [
@@ -18,6 +22,10 @@
     {
       "provider": "Allnodes",
       "address": "https://fetch-rpc.publicnode.com:443"
+    },
+    {
+      "provider": "BadgerBite",
+      "address": "https://fetch-archive.badgerbite.io"
     }
   ],
   "snapshot_provider": "",
