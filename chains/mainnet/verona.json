@@ -1,5 +1,5 @@
 {
-  "chain_name": "xion",
+  "chain_name": "verona",
   "coingecko": "XION",
   "network_type": "mainnet",
   "rpc": [
@@ -35,14 +35,14 @@
   "coin_type": "118",
   "min_tx_fee": "100",
   "addr_prefix": "xion",
-  "logo": "./logos/xion.png",
+  "logo": "./logos/verona.png",
   "assets": [
     {
       "base": "uxion",
-      "symbol": "XION",
+      "symbol": "VERONA",
       "exponent": "6",
       "coingecko_id": "xion-2",
-      "logo": "./logos/xion.png"
+      "logo": "./logos/verona.png"
     },
     {
       "base": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
