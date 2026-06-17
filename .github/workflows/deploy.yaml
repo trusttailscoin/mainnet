@@ -46,7 +46,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: explorer
-        run: yarn install --frozen-lockfile
+        run: yarn install
 
       - name: Build
         working-directory: explorer
