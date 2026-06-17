@@ -25,6 +25,12 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Update explorer to latest
+        run: |
+          git submodule sync --recursive explorer
+          git submodule update --init --remote --checkout explorer
+          git -C explorer rev-parse --short HEAD
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

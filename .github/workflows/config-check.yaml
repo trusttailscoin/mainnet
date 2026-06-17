@@ -1,0 +1,21 @@
+name: Config format check
+
+on:
+  pull_request:
+    paths:
+      - 'chains/**/*.json'
+      - 'scripts/check-config-format.sh'
+      - '.github/workflows/config-check.yaml'
+
+jobs:
+  config-format:
+    name: Check config JSON format
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check changed config files
+        run: scripts/check-config-format.sh "${{ github.event.pull_request.base.sha }}" "${{ github.sha }}"
