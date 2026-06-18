@@ -27,7 +27,7 @@
     },
     {
       "provider": "vNodes[V]",
-      "address": "https://elys.srvs.vnodesv.net/rest"
+      "address": "https://elys-api.vnodesv.net"
     }
   ],
   "rpc": [
@@ -57,7 +57,7 @@
     },
     {
       "provider": "vNodes[V]",
-      "address": "https://elys.srvs.vnodesv.net/rpc"
+      "address": "https://elys-rpc.vnodesv.net
     }
   ],
   "coin_type": "118",
