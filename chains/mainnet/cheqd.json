@@ -15,7 +15,7 @@
     },
     {
       "provider": "vNodes[V] Ser[V]ices",
-      "address": "https://cheqd-api.vnodesv.net"
+      "address": "https://cheqd-srvs.vnodesv.net/api"
     },
     {
       "provider": "BadgerBite",
@@ -41,7 +41,7 @@
     },
     {
       "provider": "vNodes[V] Ser[V]ices",
-      "address": "https://cheqd-rpc.vnodesv.net:443"
+      "address": "https://cheqd-srvs.vnodesv.net/rpc"
     },
     {
       "provider": "BadgerBite",
