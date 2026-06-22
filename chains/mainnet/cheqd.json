@@ -14,7 +14,7 @@
       "address": "https://cheqd-rest.publicnode.com"
     },
     {
-      "provider": "vNodes[V] Ser[V]ices",
+      "provider": "vNodes[V] [WW] Ser[V]ices",
       "address": "https://cheqd-srvs.vnodesv.net/api"
     },
     {
@@ -40,7 +40,7 @@
       "address": "https://cheqd-rpc.publicnode.com:443"
     },
     {
-      "provider": "vNodes[V] Ser[V]ices",
+      "provider": "vNodes[V] [WW] Ser[V]ices",
       "address": "https://cheqd-srvs.vnodesv.net/rpc"
     },
     {
