@@ -14,8 +14,8 @@
       "address": "https://cheqd-rest.publicnode.com"
     },
     {
-      "provider": "vNodes[V] Ser[V]ices",
-      "address": "https://cheqd-api.vnodesv.net"
+      "provider": "vNodes[V] [WW] Ser[V]ices",
+      "address": "https://cheqd-srvs.vnodesv.net/api"
     },
     {
       "provider": "BadgerBite",
@@ -40,8 +40,8 @@
       "address": "https://cheqd-rpc.publicnode.com:443"
     },
     {
-      "provider": "vNodes[V] Ser[V]ices",
-      "address": "https://cheqd-rpc.vnodesv.net:443"
+      "provider": "vNodes[V] [WW] Ser[V]ices",
+      "address": "https://cheqd-srvs.vnodesv.net/rpc"
     },
     {
       "provider": "BadgerBite",
